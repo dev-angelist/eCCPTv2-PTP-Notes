@@ -107,7 +107,7 @@ I will try to indicate the path I used and which I would recommend to reach a le
 
 ## **Pivoting**
 
-* INE eCCPT BoF Material 🗒️
+* INE eCCPT Pivoting Material 🗒️
 * Pivoting using Metasploit 🗒️ [TutorialsPoint Article](https://www.tutorialspoint.com/metasploit/metasploit\_pivoting.htm)
 * ContainMe 🚩 [THM CTF](https://tryhackme.com/room/containme1) 🟢 - My Writeup
 * 🗒️ [https://www.offsec.com/metasploit-unleashed/pivoting/](https://www.offsec.com/metasploit-unleashed/pivoting/)
