@@ -1,6 +1,6 @@
 ---
 description: >-
-  INE/eLearnSecurity Certified Professional Penetration Tester (eCCPT)/PTP v2
+  INE/eLearnSecurity Certified Professional Penetration Tester (eCCPT) / PTP v2
   Notes
 ---
 
