@@ -22,7 +22,7 @@ description: >-
 * [**​Linux Exploitation**](README/linux-exploitation/) \~ 9 hours
 * **​**[**Web App Security**](README/web-app-security/) \~ 10 hours
 * [**​Wi-Fi Security** ](README/wi-fi-security/)\~ 6 hours
-* [**​Metasploit & Ruby**](README/metasploit-and-ruby/)  \~ 8 hours
+* [**​Metasploit & Ruby**](README/metasploit-and-ruby/) \~ 8 hours
 
 🛣️ [**RoadMap / Exam Preparation** ](README-1.md)🧑🏻‍🏫
 
@@ -34,7 +34,7 @@ description: >-
 ## ​[eCCPT](https://security.ine.com/certifications/ecppt-certification/) Exam 📄🖊️ <a href="#ejpt-exam" id="ejpt-exam"></a>
 
 * **Time limit**: 7 days + 7 days for report
-* **Questions**: **35**
+* <mark style="color:yellow;">**Questions**</mark><mark style="color:yellow;">:</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**35**</mark>
 * **Expiration date**: no
 * **Objectives**:
   * Penetration testing processes and methodologies, against Windows and Linux targets
